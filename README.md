@@ -19,4 +19,4 @@
 
  - # _Landing Page Link_
 
-   ⇉ ⇉ [Landing Page](https://1drv.ms/u/c/291798b4f12915c1/EcaOv8zOTkdFn9pvyy97IrsBZgUdVwXhZLpKRzo6RME4bA?e=HB4cJj)
+   ⇉ ⇉ [Landing Page]( https://frk786.github.io/BootStrap-project-1/)
